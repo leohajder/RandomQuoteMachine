@@ -8,6 +8,7 @@ A random quote generator made as an assignment for [FreeCodeCamp](https://www.fr
 * [Bootswatch](https://bootswatch.com/)
 * [FontAwesome](http://fontawesome.io/)
 * [Forismatic API](http://forismatic.com/en/api/)
+* [jQuery](https://jquery.com/)
 
 ## How does it work?
 
