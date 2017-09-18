@@ -14,4 +14,4 @@ A random quote generator made as an assignment for [FreeCodeCamp](https://www.fr
 
 An AJAX request gets a JSON response from ICNDb on `document.ready` and when the user clicks `Get Quote`. Clicking `Tweet Out` will post the data to Twitter.  
 
-Live example on [CodePen](https://codepen.io/leohajder/full/vXNQgx/).
+Live on [GitHub Pages](https://leohajder.github.io/quote/).
